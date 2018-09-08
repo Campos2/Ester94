@@ -1,0 +1,25 @@
+table{
+    color: #A4A4A4;
+     width: 450px;
+     border-collapse: collapse;
+     border-style: solid ;
+     font-size: 18px;
+     background: #000000;
+
+}
+
+td {
+
+    height: 3px;
+    border-style: solid;
+    text-align: center;
+}
+
+ th {
+
+    background: #6E6E6E;
+    font-weight: bold;
+    height: 3px;
+    border-style: solid;
+
+ }
